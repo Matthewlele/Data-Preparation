@@ -1,0 +1,51 @@
+artist_count,released_year,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_shazam_charts,bpm,danceability_%,valence_%,energy_%,acousticness_%,instrumentalness_%,liveness_%,speechiness_%,key,mode,track_name,artist(s)_name
+low,recent,very low,high,low,high,very high,high,high,high,very high,very high,very high,high,medium,low,low,B,Major,Seven (feat. Latto) (Explicit Ver.),"Latto, Jung Kook"
+low,recent,low,high,very low,high,very high,high,high,low,high,high,high,medium,medium,low,low,C#,Major,LALA,Myke Towers
+low,recent,low,high,low,very high,very high,high,high,high,low,low,low,medium,medium,very high,medium,F,Major,vampire,Olivia Rodrigo
+low,old,very high,high,very high,very high,very high,very high,high,very high,low,high,high,medium,medium,medium,very high,A,Major,Cruel Summer,Taylor Swift
+low,recent,high,high,high,high,very high,high,high,very high,medium,low,very high,medium,medium,medium,medium,A,Minor,WHERE SHE GOES,Bad Bunny
+low,recent,low,high,low,high,very high,high,high,high,very high,high,medium,high,medium,low,very high,C#,Major,Sprinter,"Dave, Central Cee"
+low,recent,high,high,very high,low,very high,high,high,very high,medium,very high,high,very high,medium,low,low,F,Minor,Ella Baila Sola,"Eslabon Armado, Peso Pluma"
+low,recent,very low,high,very low,low,very high,low,high,low,medium,low,high,high,medium,medium,low,F,Major,Columbia,Quevedo
+low,recent,low,high,very low,high,very high,high,high,high,very high,low,medium,medium,medium,very high,high,C#,Minor,fukumean,Gunna
+low,recent,high,high,high,high,very high,high,high,very high,very high,high,low,high,medium,low,very high,D,Minor,La Bebe - Remix,"Peso Pluma, Yng Lvcas"
+low,recent,high,high,high,high,very high,high,high,low,low,high,high,high,medium,very high,medium,F#,Minor,un x100to,"Bad Bunny, Grupo Frontera"
+low,recent,very low,high,very low,high,very high,low,high,very high,high,high,very high,high,medium,high,high,F,Minor,Super Shy,NewJeans
+low,recent,high,high,high,high,very high,very high,high,high,low,low,low,very high,medium,low,low,D,Minor,Daylight,David Kushner
+low,old,very high,high,very high,very high,very high,very high,high,very high,low,high,high,high,medium,very high,medium,F#,Minor,As It Was,Harry Styles
+low,old,very high,high,very high,very high,very high,very high,high,low,medium,medium,high,low,medium,high,low,G#,Major,Kill Bill,SZA
+low,recent,high,high,high,very high,very high,high,low,medium,high,very high,medium,very high,medium,very high,low,B,Minor,Cupid - Twin Ver.,Fifty Fifty
+low,recent,high,high,high,high,very high,high,high,low,very high,high,medium,medium,medium,medium,very high,B,Major,Classy 101,"Feid, Young Miko"
+low,recent,very low,high,high,very low,very high,low,medium,medium,medium,medium,high,low,medium,very high,low,G,Major,Like Crazy,Jimin
+high,recent,very low,high,very low,very low,very high,low,low,high,medium,very high,high,high,medium,very high,low,F,Minor,LADY GAGA,"Gabito Ballesteros, Junior H, Peso Pluma"
+low,recent,very low,high,very low,high,very high,high,high,high,medium,very high,high,medium,medium,low,low,F#,Major,I Can See You (Taylorï¿½ï¿½ï¿½s Version) (From The ,Taylor Swift
+low,recent,low,high,low,low,very high,high,high,high,very high,very high,high,high,medium,medium,medium,F,Minor,"Peso Pluma: Bzrp Music Sessions, Vol. 55","Bizarrap, Peso Pluma"
+high,recent,low,high,very low,high,very high,high,high,low,very high,very high,high,medium,medium,very high,very high,C#,Major,Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series),"The Weeknd, Madonna, Playboi Carti"
+low,recent,very low,high,very low,low,very high,low,high,high,very high,very high,very high,medium,medium,low,high,G,Minor,SABOR FRESA,Fuerza Regida
+low,old,very high,high,very high,very high,very high,very high,high,medium,very high,very high,very high,very high,medium,high,low,B,Major,Calm Down (with Selena Gomez),"Rï¿½ï¿½ma, Selena G"
+low,recent,very low,high,very low,high,very high,high,high,high,very high,very high,high,medium,medium,very high,low,F#,Minor,MOJABI GHOST,"Tainy, Bad Bunny"
+low,recent,high,high,high,high,very high,low,high,very high,low,high,high,very high,medium,high,low,F#,Major,Last Night,Morgan Wallen
+low,recent,high,high,very low,very low,very low,very high,low,medium,medium,very high,very high,low,medium,very high,medium,B,Minor,Dance The Night (From Barbie The Album),Dua Lipa
+low,recent,low,high,very low,high,very high,high,high,high,high,medium,very high,low,medium,medium,medium,F,Minor,Rush,Troye Sivan
+low,recent,very low,high,very low,low,very high,low,high,very high,low,high,very high,high,medium,medium,medium,F#,Major,TULUM,"Peso Pluma, Grupo Frontera"
+high,old,very high,high,very high,very high,very high,very high,medium,low,high,low,medium,high,medium,low,medium,C#,Minor,Creepin',"The Weeknd, 21 Savage, Metro Boomin"
+low,old,very high,high,very high,very high,very high,very high,high,low,medium,medium,medium,medium,medium,high,medium,E,Major,Anti-Hero,Taylor Swift
+low,recent,high,high,high,very high,very high,very high,high,very high,high,high,medium,very high,medium,low,very high,E,Minor,TQG,"Karol G, Shakira"
+low,recent,very low,high,low,low,very high,low,high,very high,medium,medium,high,high,medium,medium,low,F#,Major,Frï¿½ï¿½gil (feat. Grupo Front,"Yahritza Y Su Esencia, Grupo Frontera"
+low,old,very high,high,very high,very high,very high,very high,high,low,high,high,high,medium,medium,high,medium,F,Major,Blank Space,Taylor Swift
+low,old,very high,high,very high,very high,very high,very high,high,low,medium,medium,very high,low,medium,medium,low,D,Major,Style,Taylor Swift
+low,recent,very low,high,low,low,very high,low,high,high,very high,very high,very high,high,medium,medium,medium,F,Minor,TQM,Fuerza Regida
+low,recent,very low,high,high,very low,very high,very low,high,very high,low,very high,medium,high,medium,low,medium,A,Minor,El Azul,"Junior H, Peso Pluma"
+low,old,very high,high,very high,very high,very high,very high,high,low,high,very high,low,very high,medium,low,medium,D,Major,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee"
+low,old,very high,high,very high,very high,very high,very high,high,high,low,medium,very high,low,medium,very high,low,G,Minor,I'm Good (Blue),"Bebe Rexha, David Guetta"
+high,old,very high,high,very high,high,high,very high,high,low,low,high,medium,high,medium,medium,high,F#,Major,See You Again,"Tyler, The Creator, Kali Uchis"
+low,old,high,high,high,high,high,very high,high,high,medium,medium,medium,medium,medium,low,low,F,Major,Angels Like You,Miley Cyrus
+low,old,high,high,very high,high,low,low,high,high,medium,medium,low,medium,medium,high,high,C#,Minor,Die For You,The Weeknd
+low,old,very high,high,very high,very high,very high,very low,high,very high,medium,medium,medium,medium,medium,high,very high,G,Major,Starboy,"The Weeknd, Daft Punk"
+low,recent,high,high,high,very high,very high,high,medium,low,low,medium,low,high,medium,very high,high,C#,Minor,Die For You - Remix,"Ariana Grande, The Weeknd"
+high,recent,low,high,very low,high,high,high,high,medium,high,low,medium,medium,medium,low,medium,A#,Minor,El Cielo,"Feid, Myke Towers, Sky Rompiendo"
+high,recent,high,high,low,very high,very high,very high,high,high,medium,low,very high,low,medium,medium,low,G,Major,Baby Don't Hurt Me,"David Guetta, Anne-Marie, Coi Leray"
+low,recent,low,high,low,low,high,low,high,medium,very high,high,high,high,medium,high,high,F#,Minor,AMARGURA,Karol G
+low,recent,high,high,very low,very low,very low,very high,low,high,medium,very high,very high,medium,medium,low,low,G,Minor,(It Goes Like) Nanana - Edit,Peggy Gou
+low,old,very high,high,very high,very high,very high,very low,high,high,low,low,medium,very high,medium,low,low,E,Minor,Another Love,Tom Odell
+low,old,very high,high,very high,very high,very high,very low,high,very high,low,medium,very high,low,medium,low,high,C#,Major,Blinding Lights,The Weeknd
